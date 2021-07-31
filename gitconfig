@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = jc.salazargomez@gmail.com
+	name = Juan Salazar
